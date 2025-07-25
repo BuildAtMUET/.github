@@ -41,7 +41,7 @@ We’d love to have you onboard!
 Start by checking out the pinned repos or [opening an issue](https://github.com/BuildAtMUET/issues).
 
 If you're new to GitHub:
-- Check out this [Beginner Guide to Git](https://docs.github.com/en/get-started))
+- Check out this [Beginner Guide to Git](https://docs.github.com/en/get-started)
 - Join our next intro session! *(check announcements repo)*
 
 ---
